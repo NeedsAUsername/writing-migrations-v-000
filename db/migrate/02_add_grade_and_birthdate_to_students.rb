@@ -1,1 +1,4 @@
-class AddGrade
+class AddGradeAndBirthday < ActiveRecord::Migration
+    
+
+end
